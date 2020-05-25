@@ -1,4 +1,5 @@
 <?php
+//Operadores Matemáticos
 $valorA = 3;
 $valorB = 2;
 //Soma
@@ -16,7 +17,7 @@ echo "<br> O decremento de A --= ".(--$valorA);
 //Decremento sobre a variavel decrementada anteriormente
 echo "<br> O decremento de A --= ".(--$valorA);
 echo "<hr>";
-
+//Operadores de comparação
 $compA = 8;
 $compB = 8;
 
