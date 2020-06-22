@@ -37,7 +37,7 @@
                                     Aluno aprovado com média: '.$media.'</div>';
                         }else if (($nota1=="")||($nota2=="")) {
                             echo '<br><div class="alert alert-warning" role="alert">
-                                    Prencha todas as notas para gerar a média</div>';
+                                    Preencha todas as notas para gerar a média</div>';
                         }else{
                             echo '<br><div class="alert alert-danger" role="alert">
                                     Aluno reprovado com média: '.$media.'</div>';
